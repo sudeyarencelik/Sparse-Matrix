@@ -1,0 +1,22 @@
+time complexity examples
+#include<studio.h>
+int main(){
+int i;
+for(i=1 to n){
+printf("hello world);
+}
+time cxomplexity is:O(n)
+--------------------------
+int i;
+for(i=1 ; i<n ; i=i*2){
+printf("hello world");
+}
+time complexity is:O(log2 n)
+----------------------------
+int i=1,k=1;
+while(k<=n){
+i++;
+k=k+i:
+printf("hello world");
+time complexity is:O(√n)
+}
